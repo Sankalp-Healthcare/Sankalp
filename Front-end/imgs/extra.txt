@@ -1,0 +1,341 @@
+<div class="container">
+        <h5 align="center" class="head-style avoid-nav">Sankalp</h5>
+         <h6 align="center"><em>Healthcare for all</em></h6>
+        
+        
+        
+        <!--<a href="https://drive.google.com/file/d/0B0F9CFBKpt7AQXByUkhuVnpfeWc/view?usp=sharing">
+            <h5 align="center" class="rns-head" style="color: orange;">Falcon Video</h5>-->
+
+
+        
+        <ul class="collapsible popout" data-collapsible="accordion">
+
+            <li>
+                <div class="collapsible-header"><i class="material-icons">location_city</i><b>FACILITIES AND INFRASTRUCTURE</b></div>
+                <div class="collapsible-body">
+
+                    <ol>
+                        <li>Department of ECE has 9 Class Rooms each of 70 Seating, 1 Seminar Hall with 50 Seating capacity with good Ambience.</li>
+                        <li>1 Seminar Hall with seating capacity of 100 with all the necessary facilities. Departmental library with reading room of seating capacity 10. </li>
+                        <li>9 Labs with equipment like CRO, Power Supply, Function Generator, Microwave integrated circuit kits, microwave benches, DPSK &amp;QPSK kits, OFC kits, Power Electronics modules, FPGA kits, mcb 51 kits, 8086 kits, Interfacing kits.</li>
+                        <li>133 Computers available in ECE Department with Internet facility</li>
+                        <li>Exclusive computer lab for M.Tech ECE students with 12 computers</li>
+                        <li>Labs are equipped with licensed softwares like Cadence Tool for 30 users, Labview 15 No, matlab 10 No &amp;keil software 15 number etc.</li>
+                        <li>Department has also set up 2R&D Labs which are GPR Lab and PSoc Lab. These labs are equipped with GPR simulation module, VNA, Horn antennas, CRO, PAM-CEM Electromagnetic simulation suite from ESI group, High end PCs.</li>
+                    </ol>
+                    <br>
+                </div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">thumb_up</i><b>EXCELLENCE / ACHIEVEMENTS</b></div>
+                <div class="collapsible-body">
+                    <ol>
+                        
+                        <li>Orientation Program for the academic year 2018-19 (even Semester) was conducted for fourth, sixth and eighth semester students from 04.02.2019 to 08.02.2019. The agenda of the orientation program is to educate the students on the various events of current semester and to motivate them to excel in their academic activities. </li>
+                        <h5>Ranks Achieved </h5>
+                        <li>Nisarga G secured 4 th rank in the year 2019. </li>
+                        <li>Rakshitha R R secured 7th rank in the year 2018. </li>
+                        <li>Sheetal J secured 2nd rank with 1 gold medals and Varun R. secued 8th rank in the year 2017. </li>
+                        <li>Komal Agarwal secured 4th rank in the year 2016.</li>
+                        <li>Ullas Bharadwaj secured 1st rank with 5 gold medals in the year 2015.</li>
+                        <li>K R Sathyajit secured 1st rank with 5 gold medals in the year 2014.</li>
+                        <li>Phalguna P secured 1st rank with 6 gold medals in the year 2012.</li>
+                        <li>Department has also got ranks in PG programme,
+                            <ol><li>Deepika L secured 1 st rank with gold medal in the year 2019</ol></li>
+                            <ol><li>Arpitha J secured 8 th rank in the year 2019</ol></li>
+                            <ol><li>Roshni U Singh secured 1st, Vannalu Aruna 2nd rank, Spoorthi Raj 6th rank, Shruti H Naik 7th rank and Yashaswini M 10th rank in the year 2018. </ol></li>
+                             <ol><li>Shruthi P secured 3rd rank in the year 2012.</ol></li></li>
+                        <a target="_blank" href="images/ece/VTU Rank .pdf">
+                        <li> VTU Rank Holders</li>
+                        </a>
+                    </ol>
+                    <ol>
+                        <h5>Students achievements </h5>
+                        
+                        
+                        <li>Students have participated in many technical events organized by various colleges like JSS, RVCE, SJBIT, BNMIT, Dayanand Sagar college of Engg. other colleges which includes Quiz, workshops, paper presentations, Project Expo, circuit debugging, etc. And also, have won prizes for the same. Students have also participated in cultural activities held in other colleges and have grabbed many awards. </li>
+                        <li>Project titled "Detection of Pedestrians, Sign Boards and Road Condition Using Computer Vision And Deep Learning for Highly Automated Driving" carried out by Joshi, Priyanka, Swaroop, Pranesh won Second prize in State Level Project expo Sristhi 2018.</li>
+                        <li>Project titled "Aegis- intelligent Helmet", carried out by Rahul P.M, Neveditha, Hemashree, Manjunath won Consolation prize in State Level Project expo Sristhi 2018.</li>
+                        <li>Akshay Krishna, Akhilesh V, Animikh and Chethana won Best paper award at "International Conference on Emerging Research in Electronics, Computer science and Technology" held at P.E.S. College of Engineering, Mandya.</li>
+                        <li>Abhishek Singh received 2nd prize in Street Play from Christ University.</li>
+                        <li>Shreyal Telang has secured the Winner place in Table Tennis from BMSCE.</li>
+                        <li>Vaishnavi B.S. has secured the Winner place in Table Tennis Inter Zonal competition held at Sapthagiri college of engineering and  also at JSSATE. </li>
+                        <li>Sushant Bhat received best singer award from RVCE , Aman Pandey received Ist prize for Ideaz B from IIT Roorkee. Rahul Shetty, Swapniel Shetty won prizes in canyon Rush and Delta Surge from IIT Karagpur.</li>
+                    </ol>
+                    <h5>REPORT ON TEAM FALCON</h5>
+                    <ol>
+                        <li>Team Falcon is a group of dedicated and definitely focused students, started out as an initiative to allow interaction between senior and junior students. It was started in the year 2014. Falcon, is a bird of prey that soars high, it was chosen as a name for the group to imply that the students who were a part of falcon would soar above their peers and achieve new heights. The students, at falcon, transfer their knowledge, experiences to the junior students, in the form of workshops and seminars which covers fields like robotics, simulation of analog and digital circuits, pcb designing etc. It's a good platform for learning, for both senior students, who get to teach, and the junior students, who get to learn. It encourages students to try out new ways to explore and discover things by themselves.</li>
+                    </ol>
+                    <h5>Sponsored student projects </h5>
+                    <ol>
+                        <li>Two VTU sponsored projects entitled "Implementation of wearable device for child and women safety" and "Image Processing based autonomous fetch Bot for garbage collection", were carried out by final year students during the year 2018-19.</li>
+                        <li>Two KSCST sponsored project entitled- "Voice Controlled Wheel Chair with Health Monitoring System", and "Real Time Braille Script to Speech Converter" were carried out by final year students during the year 2017-2018.</li>
+                        <li>KSCST sponsored project entitled- The Implementation of Swarm Robotics Using Swarm Intelligence carried out by final year students during the year 2016-2017</li>
+                         <li>KSCST sponsored project entitled -INTEGRATED AIR-BORNE CAMERA UNIT with live video transmission and surveillance , carried out by final year students during 2015-2016. </li>
+                        <li>IEEE EPICS granted 200 us dollar for the project entitled Real-Time Conversion of Sign Language into Audio and Text form to assist hearing and/or speech impaired in the year 2014-15.
+                        </li>
+                        <li>IEEE EPICS granted 1304.00 us dollar for the project entitled Communication tool for hearing and speech impaired in the year 2013-14.
+                        </li>
+                       
+                        
+                    </ol>
+
+                </div>
+            </li>
+
+            <li>
+                <div class="collapsible-header"><i class="material-icons">people</i><b>WORKSHOPS / CONFERENCES CONDUCTED</b></div>
+                <div class="collapsible-body">
+                    <ol>
+                        <li>Every year in the Department of Electronics & Communication, 15 to 20 workshops in various fields & topics are conducted. Along with this Department conducts seminars, conferences and invited lectures to keep the students and staff updated with the latest Technology.</li>
+                        <li>Workshops are conducted by eminent resource persons from industries and academia, inhouse faculty &Falcon team members /alumni students. Some of the prime workshops which will be conducted every year are:</li>
+                        <ul>
+                            <li>Advanced Labview</li>
+                            <li>Arduino</li>
+                            <li>Phython</li>
+                            <li>Multisim</li>
+                            <li>PSOC</li>
+                            <li>ARM processor</li>
+                            <li>MSP 430, etc</li>
+                            
+                        </ul>
+                        <li>A Three days Faculty Development Programme was organized and conducted by ECE department on "Machine Learning and Deep Learning using Python" on January 30,31 and February 01, 2020</li>
+                    <li>Advanced VLSI course is conducted by Kanada Technologies on weekends (Saturday and Sunday) and holidays. 20 students of ECE dept have registered for this course and taking benefit of the 200-hour course. The contents of course is introduction of MOSFET, tool introduction, custom Layouts, standard layouts, memory layouts and advanced topics are Short channel effects, STI, FINFET, Double Patterning, EUV. The course content matches with industry requirement in VLSI.</li>
+                   
+                    <li>Project open house is scheduled on 23.02.2019 for fourth and sixth semester students to showcase their technical and also communication skills. Projects are carried out in various fields of Electronics &Communication Engineering namely Core communication, VLSI, embedded systems, Image processing, robotics, IOT, control etc.</li>
+                    <li>Department hosted 2nd International Conference on Circuits, Controls and Communication (C3 2017), sponsored by the IEEE Bangalore section, IEEE communications, Circuits and Systems and CAS Society will be held on December 15-16, 2017.</li>
+                    <li>Department also conducts national conference regularly.</li>
+                    <ol>
+                        <li>IETE sponsored Third Online National Conference on "Emerging Trends in Engineering, Science and Engineering" was conducted on Wednesday, 17th June 2020. Conferencewas conducted using Google meet. Totally we had received98 papers and after the review 86 papers got accepted.Selected papers were presented in 10 morning and 3 afternoon parallel sessions. The best paper announced foreach session</li>
+                             <li>IETE Sponsored second National Conference on Engineering, Science and Technology is conducted on May 3, 2019. Total of 136 papers are received among those 112-paper selected for the presentation. Papers are published in the conference proceedings with an ISBN number 978-93-5346-671-8.The Conference aims to provide the platform for UG, PG and Research Scholars of engineering for the exchange of new ideas, thoughts, emerging trends in Engineering Science & Technology</li>
+                            <li>In 4th May, 2018 Department conducted National Conference on "Emerging Trends in Engineering Science & Technology"</li>
+                            <li>In 2013 department conducted AICTE sponsored National Conference on "Recent Advances in Electronics and communication Engineering-NCRAECE13"</li>
+                    </ol>          
+
+                    </ol>
+                    </span>
+                </div>
+            </li>
+            <li>
+                    <div class="collapsible-header"><i class="material-icons">receipts</i><b>DEPARTMENT PEOs AND PSOs</b>
+                        <!--i class="material-icons right_icons">arrow_drop_down</i-->
+                    </div>
+                    <div class="collapsible-body">
+                        <a target="_blank" href="images/ece/ecedeptpeopso.pdf">
+                        <ol>
+                            <li> PEOs AND PSOs</li>
+                        </ol> </a>
+                    </div>
+                </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">event_available</i><b>EXTRA CURRICULAR EVENTS / ACTIVITIES</b></div>
+                <div class="collapsible-body">
+
+                    <ul>
+                        <li>Invited Talks on emerging technology by eminent personalities will be
+                            conducted every semester for the benefit of students. </li>
+                        <li><a target="_blank" href="images/ece/eceinvited.pdf">
+                       
+                            <li>Invited Special Lecturers</li>
+                        </a></li>
+                        <h5>IETE student chapter </h5>
+                        <ol>
+                        <li>IETE student chapter started in 2009 in the department. Under IETE there are around 400 students memberships. Every semester technical talks are conducted for various topics for the benefit of students. Mr. Kiran Bableshwar, Capability Development Lead, Accenture Technologies, Bangalore delivered a talk on Job Preparedness , Dr.Malathi Sathish, Associate Professor, MSRUAS, Bangalore gave a lecture on Integrated Optics Bio-sensor , H.L.Srinivasa Rao, ISRO Satellite centre, Bangalore delivered talk on Satellite technology, Praveen, Broadcom India private Ltd. Spoke on Trends in VLSI Technology and Industry. Every year technical events are conducted under the IETE.</li>
+                        <li>Techkruthi a week of techno cultural events hosted by ECE department under the banner of IETE. Around 20 student events and 2 staff events will be held. Participants are from all branches of B.E and M.Tech. Co-ordinated by Asst. Prof Nandini K S, along with an energetic team ofstudents from 4th &6th Sem. From 4 days, 15:30 to 16:45, 2 parallel events were held. The final two dayconsisted Paper presentation, Treasure hunt, Gaming, also finals of all events whose prelims were completed in the weekdays in duration of 11:00 to 16:30. Staff and students also took pride by the attire of Techkruthi themed T-shirts. Techkruthi stands for All handmade, Almost Zero plastic.
+                        </li>
+                    </ol>
+                        <h5>IEEE student chapter at RNSIT </h5>
+                        <ol>
+                        <li>IEEE student chapter at RNSIT started in the year 2010. In this chapter, around 40 student membership has been registered. The Student Branch has its own Student committee, With Student Chairs and other Members who take care of organization of events, financial aspects and reporting to IEEE done every year.</li>
+                        <li>Events like workshops, technical talks, project open house, paper presentation, Industrial Visits etc. are conducted under the banner of IEEE student chapter in the year 2019. </li>
+                        <li>The IEEE also funds Student Projects. Our students have received various grants to mention a few :</li>
+                        <ol>
+                            <li>An Amount of $1304.00 for the EPICS project entitled "Real time sign Language conversion to Audio and Text form for the Hearing Impaired".</li>
+                            <li>An Amount of $1500 for the "Robotics Arm Project".</li> 
+                        </ol>               
+                       
+
+                        </ol>
+                        <h5>Falcon</h5>
+                       
+                        <li>Team Falcon is a group of dedicated and definitely focused students, started out as an initiative to allow interaction between senior and junior students. It was started in the year 2014. Falcon, is a bird of prey that soars high, it was chosen as a name for the group to imply that the students who were a part of falcon would soar above their peers and achieve new heights. The students, at falcon, transfer their knowledge, experiences to the junior students, in the form of workshops and seminars which covers fields like robotics, simulation of analog and digital circuits, PCB designing etc. It's a good platform for learning, for both senior students, who get to teach, and the junior students, who get to learn. It encourages students to try out new ways to explore and discover things by themselves.</li>
+                        <li><a target="_blank" href="images/ece/IEEE.pdf">
+                       
+                            <li>IEEE RNSIT Student Branch</li>
+                        </a></li>
+                    </ul>
+                </div>
+            </li>
+            <li>
+                <div class="collapsible-header"><i class="material-icons">monetization_on</i><b>SPONSORED RESEARCH PROGRAM DETAILS</b></div>
+                <div class="collapsible-body">
+
+                    <h5> Faculty and students of the department are doing projects sponsored by KSCST, IEEE, AICTE and LRDE.</h5>
+                    <ol>
+                        
+                        <li> Under AICTE-RPS, received a grant of Rs. 20,17,000/- for the project titled Detection of Anti-personnel Mines using Indigenous Ground Penetrating Radar (GPR), in the year 2013. Dr. Vipula Singh is Principal Investigator and Prof. S.N Sridhara was Co-Investigator . The project was completed in 2016, with outcome of 9 UG and 2-PG projects and also around 5 Paper presentation in International and national conferences.
+                        </li>
+                        <li>
+                            From LRDE, under CARS received a grant of Rs. 9,75,000 for the project titled Analysis and implementation of Kirchhoffs migration and Omega-K algorithms for focusing Ground Penetrating Radar Image, in the year 2014. Dr. Vipula Singh is Principal Investigator and Prof. S.N Sridhara was Co-Investigator The project duration was 18 months. The project successfully completed in 2016, with outcome of 8 UG projects. Around 5 papers presented in International conference and 2 papers in International Journals. With these research projects faculty of ECE is pursuing PhD under VTU. The GPR team carried out an extensive literature survey and set up an elaborate GPR lab with the entire infrastructure necessary to carry out the research.
+                        </li>
+                        <li>IEEE EPICS granted 200 us dollar for the project entitled Real-Time Conversion of Sign Language into Audio and Text form to assist hearing and/or speech impaired in the year 2014-15.</li>
+                        <li>IEEE EPICS granted 1304.00 us dollar for the project entitled Communication tool for hearing and speech impaired in the year 2013-14. </li>
+                        <li>KSCST sponsored project entitled -INTEGRATED AIR-BORNE CAMERA UNIT with live video transmission and surveillance , carried out by final year students during 2015-2016. </li>
+                        <li>KSCST sponsored project entitled- The Implementation of Swarm Robotics Using Swarm Intelligence carried out by final year students during the year 2016-2017</li>
+                        <li>Two KSCST sponsored project entitled- "Voice Controlled Wheel Chair with Health Monitoring System", and "Real Time Braille Script to Speech Converter" were carried out by final year students during the year 2017-2018
+                        </li>
+                        <li>Two VTU sponsored projects entitled "Implementation of wearable device for child and women safety" and "Image Processing based autonomous fetch Bot for garbage collection", were carried out by final year students during the year 2018-19.
+                        </li>
+
+                    </ol>
+                </div>
+            </li>
+
+            <li>
+                <div class="collapsible-header"><i class="material-icons">poll</i><b>PERFORMANCE</b></div>
+                <div class="collapsible-body">
+                
+                    <ol>
+                        <h5 class="black-text"><b><p>Quality Input</p></b></h5>
+                        <ul>
+                            <li>NBA Accredited during 2018-21</li>
+                            <li>
+                                <B>CET ranks : < 2500</B> and
+                                <B>  COMED-K ranks : < 6000</B>
+                                </li>
+                     
+                       
+                        <li>Excellent infrastructure with well-equipped and sufficient laboratories and library facility and Seminar halls are available for the usage of Lecture/NPTEL Videos/Demos.</li>
+                        <li>NACC Accredited with 'A'grade in 2017</li>
+                        
+                        <li>Department is Recognized as Research center by VTU, Belagavi.
+                        </li>
+                        <li>
+                            The Department of ECE has been consistently securing university ranks from past five years and this has led to a goodwill about the college at the state level. In the last five years, a total of 22 students have secured ranks, out of which 5 have been First Ranks. The average performance of the student is around 85% in vtu exams.</li>
+                        <li>90% of the students get placed in reputed companies with minimum package of 3.5 L pa and maximum package of 24 L pa. Good Academic and Extra, Co-Curricular records by students, Consistent performance in university exams and placement of the students in Core Companies
+                        </li>
+                        <li>Good number of Paper Publications by both Faculty and Students</li>
+                        <li>Good number of technical interactions like Guest Lectures, Workshops, Competitions &Conferences are conducted by the Department</li>
+                        <li>Students Club Techkruthi, Robotics Club, mini project exhibition, Professional societies IEEE, and IETE for the benefit of faculty and students to alert their skills.
+                        </li>
+                        <li>Training Classes are carried out to prepare the students for Placements/ GATE/ GRE Examination.
+                        </li>
+                    </ol>
+                </div>
+            </li>
+
+            <li>
+                <div class="collapsible-header"><i class="material-icons">message</i><b>NEWSLETTER(S) DESCRIPTON</b></div>
+                <div class="collapsible-body">
+                    <p>Department releases news letter NOESIS- once every semester. Noesis means it is the perception of mind and a study of intellect. Noesis started in 2010 and department has released 15 newsletters till date. News letter is a collection of both technical thoughts and artistic skills. It is also a report of all the activities conducted within the department during the semester.</p>
+                   <a target="_blank" href="images/ece/NewsLetter_Noesis.pdf">
+                    <div class="newscards">
+                        <h6>NOESIS</h6>
+
+                        </div>
+                    </a> 
+                    
+                    
+                   
+                </div>
+            </li>
+
+            <li>
+                    <div class="collapsible-header"><i class="material-icons">work</i><b>BEST PRACTICE</b>
+                        <!--i class="material-icons right_icons">arrow_drop_down</i-->
+                    </div>
+                    <div class="collapsible-body">
+                    	<a target="_blank" href="images/ece/best_practice.pdf">
+                    	<ol>
+                            <li> Department best practice</li>
+                        </ol> </a>
+                    </div>
+            </li>
+            <li>
+                    <div class="collapsible-header"><i class="material-icons">work</i><b>DEPARTMENT ACTIVITIES</b>
+                        <!--i class="material-icons right_icons">arrow_drop_down</i-->
+                    </div>
+                    <div class="collapsible-body">
+                        <a target="_blank" href="images/ece/Department Activities.pdf">
+                        <ol>
+                            <li> Department Activities</li>
+                        </ol> </a>
+                    </div>
+            </li>
+
+
+			<li>
+                    <div class="collapsible-header"><i class="material-icons">receipts</i><b>VLSI COE</b>
+                        <!--i class="material-icons right_icons">arrow_drop_down</i-->
+                    </div>
+                    <div class="collapsible-body">
+                    	<a target="_blank" href="images/ece/VLSI.pdf">
+                    	<ol>
+                            <li> VLSI Center of Excellence</li>
+                        </ol> </a>
+                        <a target="_blank" href="images/ece/Events.pdf">
+                        <ol>
+                            <li> VLSI Events</li>
+                        </ol> </a>
+                    </div>
+            </li>
+
+			<li>
+                    <div class="collapsible-header"><i class="material-icons">monetization_on</i><b>SIGNAL PROCESSING COE</b>
+                        <!--i class="material-icons right_icons">arrow_drop_down</i-->
+                    </div>
+                    <div class="collapsible-body">
+                    	<a target="_blank" href="http://coesprnsit.blogspot.com/?m=1">
+                    	<ol>
+                            <li> Signal Processing Center of Excellence</li>
+                        </ol> </a>
+                    </div>
+            </li>
+
+			   <li>
+                <div class="collapsible-header"><i class="material-icons">work</i><b>PROJECT OPEN HOUSE(S)</b></div>
+                <div class="collapsible-body">
+                    <ol>
+                    <h5>Project Open house</h5>
+                    <p>Every year the ECE department conducts Open house Expo for final year UG and PG students. About 250 students participate and showcase their technical and also communication skills. Projects are carried out in various fields of Electronics &amp;Communication Engineering namely Core communication, VLSI, embedded systems, Image processing, robotics, IoT, control etc. Majority of the projects are carried In-house where-as some are carried out in external organizations like ADE, LRDE, ISRO, IISc, BEL etc. Some of the projects can be rolled out as products to help in health care, military and the society in general like robots to monitor the health of senior citizens and the disabled, robots that help the injured in war, pill vending machine, detection of landmines in war zones using Ground Penetration Radar, IoT based water &amp;electricity billing system, storing and tracking of solar power, industrial pollution monitoring system, segregation of waste. Experts from various fields from industry and academia are brought to judge the projects &amp;give expert inputs. Based on the students performance, the judges have continually expressed their happiness regarding the quality of the projects and the enthusiasm of the students in explaining them. They appreciated the students for trying to analyze the need/problems of our day to day life &amp;solve them through reliable and cost effective projects. Many of the students start the work early (3rd and 4th sem) as mini-projects and continue on the same work until their final years and bring out more useful products to the society. This is a great initiative towards realizing our PMs dream of Make-In-India for creating successful young scientists &amp;entrepreneurs directly from the Institution.</p>
+                    <h5>Mini Project Open house
+</h5>
+                    <p>Mini Project Open House Expo is a celebration of ideas, thoughts and innovation of the 1st year, 2nd year and 3rd year students, which is being conducted every semester. Students showcase their projects in the various domains like embedded systems, VLSI, Microcontrollers, Robotics and image processing etc. More than 150 projects are exhibited every semester . These projects are judged by experts from the industry and academics. It promotes out-of-the-box thinking in students and fosters interaction between juniors, seniors and professors. Its a platform where students apply their conceptual knowledge for practical applications. This bridges the gap between what we learn in the classroom and what is needed in the real world. </p>
+                    <p>The projects are evaluated under 4 categories like Hardware, Software, Hybrid and Social Impact and best projects are awarded with certificates and cash prize in each category. Hardware projects are those which include electronic circuitry without any software control. Software projects are those which mainly use software tools like LabVIEW, MATLAB and programming in SQL, HTML etc., Hybrid projects are a mixture of hardware and software, i.e., all embedded applications. And Social Impact projects, as the name implies, includes all projects which aim towards the betterment of the society. This event has helped students to perform better during placements and get placed in core companies. It enriches their technical skills and soft skills. Few of the projects are further continued as a final year projects. Project expo has also resulted in publishing of papers in national and international conferences .
+                    </p>
+                    </ol>
+                    
+                </div>
+            </li>
+
+            
+                <!--<div class="collapsible-body">
+                    <p>Many students from RNSIT have appeared for the GATE examination and have cleared with outstanding scores and got enrolled in reputed universities for their higher studies.
+                    </p>
+                </div>
+            </li>-->
+
+            <li>
+                <div class="collapsible-header"><i class="material-icons">receipts</i><b>R &amp;D WORK / PAPERS PUBLISHED</b></div>
+                <div class="collapsible-body">
+                    <ol>
+                        <li>
+                           Department of ECE has R&D centre offering Ph.D /M.Sc (Engg) since 2009. Under this research center 17 research scholars are pursuing their Ph.D.and 5 completed in various domains like Image Processing, Signal Processing, Networking, cryptography, Antenna and Radar, Optics etc. Research supervisors in Department of ECE are Dr. M K Venkatesha, DrVipula Singh, Dr Suresh D, Dr Rajini V H, Dr S.V Uma, Dr S Sandhya, Dr Andhe Pallavi, Dr Prabhavathi C N. Dr Sumathi and Dr Sangeetha B G.  Research Scholars have published more than 200 publications in reputed journals and conferences. From this research center Prof. Archana R Kulkarni, Usha B. S, Sridhar S, Mamatha A.S, Manjula V K and Smitha N successfully completed their Ph.D</li>
+                        <li>
+                            Under AICTE-RPS, received a grant of Rs. 20,17,000/- for the project titled Detection of Anti-personnel Mines using Indigenous Ground Penetrating Radar (GPR), in the year 2013. Dr. Vipula Singh is Principal Investigator and Prof. S.N Sridhara was Co-Investigator . The project was completed in 2016, with outcome of 9 UG and 2-PG projects and also around 5 Paper presentation in International and national conferences. </li>
+                        <li>From LRDE, under CARS received a grant of Rs. 9,75,000 for the project titled Analysis and implementation of Kirchhoffs migration and Omega-K algorithms for focusing Ground Penetrating Radar Image, in the year 2014. Dr. Vipula Singh is Principal Investigator and Prof. S.N Sridhara was Co-Investigator The project duration was 18 months. The project successfully completed in 2016, with outcome of 8 UG projects. Around 5 papers presented in International conference and 2 papers in International Journals. With these research projects faculty of ECE is pursuing PhD under VTU. The GPR team carried out an extensive literature survey and set up an elaborate GPR lab with the entire infrastructure necessary to carry out the research.</li>
+
+                        <li>Faculties of ECE Department along with the students are involved in many research activities and have published their research contribution in many reputed journals like scopus indexed , Thomson Reuters and International conferences like Elsevier, IEEE, Springer, etc. Since 2012, around 200 papers has been published by faculties and students with 155 citations. Faculties have also published books with reputed publishers like Elsevier , International Publishing House, etc.</li>
+                        <a target="_blank" href="images/ece/R-Dece.pdf">
+                       
+                            <li> List of Research Guides & Students under RNS R & D Centre</li>
+                        </a>
+                         <a target="_blank" href="images/ece/publicationsece.pdf">
+                       
+                            <li> Publications</li>
+                        </ol> </a></li>        </ol>
+                </div>
+            </li>
+            </ul>
+    </div>

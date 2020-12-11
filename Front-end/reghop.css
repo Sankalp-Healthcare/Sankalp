@@ -1,0 +1,537 @@
+
+        .ui-autocomplete {
+            background-color: #fff;
+            width: 20%;
+            float: left;
+            list-style: none;
+            padding: 0px;
+        }
+
+            .ui-autocomplete li {
+                margin: 0px;
+                width: 99%;
+            }
+
+                .ui-autocomplete li a {
+                    padding: 1%;
+                    margin: 0px;
+                    width: 100%;
+                    float: left;
+                    color: #000;
+                    background-color: #e7eef6;
+                    cursor: pointer;
+                }
+
+                    .ui-autocomplete li a:hover {
+                        color: #fff;
+                        background-color: #000 !important;
+                    }
+
+        .option-name {
+            display: block;
+            height: 34px;
+            padding: 6px 12px;
+            font-size: 14px;
+            line-height: 1.42857143;
+            color: #555;
+            background-color: #fff;
+            background-image: none;
+            border: 1px solid #ccc;
+        }
+
+        /*----------------------------------------------------------------------Hospital Registration Form----------------------------------------------------------*/
+    
+        input[type="checkbox"] {
+            margin: 0;
+            display: -webkit-box;
+            margin-right: 5px;
+        }
+    
+        input[type="radio"] {
+            margin: 0;
+            display: flex;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            margin-right: 5px;
+        }
+    
+        .hospital-registration {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+    
+    
+        /*========================Hospital details=================*/
+    
+        .hospital-full {
+            width: 100%;
+            float: left;
+            background: #d9dfe7 url("/images/nhp-watermark.png");
+            padding: 12px 0px;
+        }
+    
+        .hospital-max {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+    
+        .hospital-image {
+            width: 8%;
+            float: left;
+            font-size: 50px;
+            text-align: center;
+            background-color: #c90000;
+            color: #FFF;
+            padding: 2% 1%;
+        }
+    
+        .hospital-name {
+            width: 88%;
+            float: left;
+            margin-left: 2%;
+        }
+    
+        .hospital-phone-full {
+            background-color: #015387;
+            width: 100%;
+            float: left;
+            clear: both;
+        }
+    
+        .hospital-phone-max {
+            width: 100%;
+            max-width: 1200px;
+            margin: 10px auto;
+            color: #fff;
+        }
+    
+            .hospital-phone-max span {
+                margin-left: 2%;
+            }
+    
+                .hospital-phone-max span i {
+                    margin-right: 10px;
+                }
+    
+        .hospital-details-max {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+    
+        .hospital-details {
+            border: solid 1px;
+            float: left;
+            width: 70%;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+    
+        .hospital-address h4 {
+            background-color: #015387;
+            margin: 0px;
+            padding: 10px 0%;
+            color: #fff;
+            float: left;
+            width: 100%;
+            padding-left: 2%;
+            width: 98.1%;
+        }
+    
+        .hospital-all-list {
+            float: left;
+            width: 100%;
+            border-top: solid 1px;
+        }
+    
+        .hospital-address-details {
+            width: 36%;
+            float: left;
+            padding-left: 2%;
+            padding: 10px 2%;
+        }
+    
+        .hospital-address-list {
+            width: 55%;
+            float: left;
+            padding-left: 2%;
+            padding: 10px 2%;
+            border-left: solid 1px;
+        }
+    
+        .specializations p {
+            padding: 5px;
+            background-color: #efeeee;
+            float: left;
+            margin-left: 10px;
+        }
+    
+        .hospital-releated-details {
+            float: left;
+            width: 25%;
+            margin-left: 2%;
+            margin-top: -125px;
+        }
+    
+        .hospital-side-map iframe {
+            border: solid 1px !important;
+        }
+    
+        .get-direction-button {
+            width: 100%;
+            border: solid 1px #9f9f9f;
+            padding: 10px 0px;
+            text-align: center;
+            color: #000;
+            margin-top: 5px;
+            display: none;
+        }
+    
+        .similar-hospital-list {
+            margin-top: 10px;
+            margin-bottom: 10px;
+            width: 100%;
+            border: solid 1px;
+            float: left;
+            max-height: 300px;
+            overflow: scroll;
+        }
+    
+            .similar-hospital-list h4 {
+                width: 100%;
+                float: left;
+                text-align: center;
+                padding: 10px 0px;
+                background-color: #015387;
+                color: #FFF;
+                margin: 0px;
+            }
+    
+            .similar-hospital-list ul {
+                float: left;
+                width: 90%;
+                margin: 0px;
+                padding: 3% 5%;
+                list-style: none;
+            }
+    
+                .similar-hospital-list ul li {
+                    padding: 5px 0px;
+                    line-height: 16px;
+                }
+    
+        .hospital-registration-max {
+            width: 100%;
+            margin: 0 auto;
+            max-width: 1200px;
+        }
+    
+        .hospital-registration {
+            width: 100%;
+            float: left;
+            margin-top: 10px;
+        }
+    
+        .hospital-heading {
+            width: 100%;
+            text-align: center;
+            border: solid 1px;
+            background-color: #f7f2f2;
+        }
+    
+        legend {
+            text-align: center;
+            font-size: 100%;
+            text-transform: uppercase;
+            display: inline-block;
+        }
+    
+        .hospital-all-text {
+            width: 100%;
+            float: left;
+            box-sizing: border-box;
+            /*display: flex;
+            justify-content: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            align-items: flex-start;
+            -webkit-box-align: start;
+            -ms-flex-align: start;*/
+        }
+    
+        /*.hospital-lable-text {
+            width: 47%;
+            float: left;
+            padding-left: 3%;
+        }*/
+    
+        .hospital-inputs, .hospital-lable-text {
+            width: 50%;
+            float: left;
+            box-sizing: border-box;
+            display: flex;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            justify-content: flex-start;
+            -webkit-box-pack: start;
+            -ms-flex-pack: start;
+            align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            padding: 5px !important;
+        }
+    
+        .hospital-inputs-checkbox {
+            float: left;
+            width: 50%;
+        }
+    
+            .hospital-inputs-checkbox span {
+                width: 33%;
+                float: left;
+                margin: 0;
+                box-sizing: border-box;
+                display: flex;
+                display: -webkit-box;
+                display: -ms-flexbox;
+                justify-content: flex-start;
+                -webkit-box-pack: start;
+                -ms-flex-pack: start;
+                align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                padding: 5px;
+            }
+    
+            .hospital-inputs-checkbox input[type="checkbox"] {
+                margin-right: 5px;
+            }
+    
+        .specialties-checkbox span {
+            width: 25%;
+            float: left;
+            margin: 0;
+            box-sizing: border-box;
+            display: flex;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            justify-content: flex-start;
+            -webkit-box-pack: start;
+            -ms-flex-pack: start;
+            align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            padding: 5px;
+        }
+    
+        fieldset {
+            margin-top: 20px;
+            padding: 20px;
+            border: 1px solid #C0C0C0;
+            float: left;
+            width: 100%;
+            box-sizing: border-box;
+        }
+    
+        /*.hospital-inputs input[type="text"] {
+            width: 50%;
+            height: 30px;
+            display: flex;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            box-sizing: border-box;
+        }*/
+    
+        textarea {
+            width: 50%;
+            height: 100px;
+            display: flex;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            box-sizing: border-box;
+        }
+    
+        .hospital-inputs select {
+            width: 50%;
+            height: 30px;
+            margin-left: 0 !important;
+            display: flex;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            box-sizing: border-box;
+        }
+    
+      
+    
+        .button {
+            border: solid 1px;
+            padding: 7px 10px;
+            background-color: #fa8620;
+            color: #fff;
+            float: left;
+            cursor: pointer;
+            /*margin: 10px 0px 10px 26px !important;*/
+        }
+    
+        .any_other_remove {
+            width: 25px;
+            height: 25px;
+            /*margin-left: 5px;*/
+            box-sizing: border-box;
+            display: flex;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            justify-content: flex-start;
+            -webkit-box-pack: start;
+            -ms-flex-pack: start;
+            align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            background-color: #D6D6D6;
+            border: 1px solid #BDBCBC;
+            text-align: center;
+        }
+    
+        .any_other_add {
+            position: absolute;
+            left: 55%;
+            top: -32px;
+            width: 25px;
+            height: 25px;
+            margin-left: 5px;
+            box-sizing: border-box;
+            display: flex;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            justify-content: flex-start;
+            -webkit-box-pack: start;
+            -ms-flex-pack: start;
+            align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            background-color: #D6D6D6;
+            border: 1px solid #BDBCBC;
+            text-align: center;
+        }
+    
+        .any_other_add2 {
+            position: absolute;
+            left: 55%;
+            top: -32px;
+            width: 25px;
+            height: 25px;
+            margin-left: 5px;
+            box-sizing: border-box;
+            display: flex;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            justify-content: flex-start;
+            -webkit-box-pack: start;
+            -ms-flex-pack: start;
+            align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            background-color: #D6D6D6;
+            border: 1px solid #BDBCBC;
+            text-align: center;
+        }
+    
+        .any_other_align2 {
+            margin: 10px 0 15px 5px !important;
+            float: left;
+        }
+    
+        .any_other_2 {
+            position: absolute;
+            top: 35px;
+            left: 22px;
+        }
+    
+        .add_other_last .hospital-inputs {
+            width: 566px;
+            padding: 5px 0 !important;
+        }
+    
+        /*.add_other_last .hospital-inputs input[type="text"] {
+            width: 100%;
+        }*/
+    
+        .add_other_last .hospital-lable-text .any_other_add {
+            left: 313px;
+        }
+    
+        .reg_image ul {
+            padding: 0;
+            margin: 0;
+        }
+    
+            .reg_image ul li {
+                list-style-type: none !important;
+            }
+    
+        .add_button_plus {
+            width: 25px;
+            height: 25px;
+            margin-left: 5px;
+            box-sizing: border-box;
+            display: flex;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            justify-content: flex-start;
+            -webkit-box-pack: start;
+            -ms-flex-pack: start;
+            align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            background-color: #D6D6D6;
+            border: 1px solid #BDBCBC;
+            text-align: center;
+        }
+    
+        .add_button_minus {
+            width: 25px;
+            height: 25px;
+            margin-left: 5px;
+            box-sizing: border-box;
+            /*display: flex;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            justify-content: flex-start;
+            -webkit-box-pack: start;
+            -ms-flex-pack: start;
+            align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;*/
+            background-color: #D6D6D6;
+            border: 1px solid #BDBCBC;
+            text-align: center;
+        }
+    
+        .pincode_width {
+            width: 50% !important;
+        }
+    
+        /*#divanothermobile > input[type="text"] {
+            display: block !important;
+            float: left;
+        }*/
+    
+        #anotherstdcode, #anotheremergengy, #anotherprimaryemailid, #anothersecondaryemailid, #anothertelephone, #anothermobile {
+            display: block;
+            float: left;
+        }
+    
+        select#state {
+            width: 50%;
+        }
+    
+    
+    
+        /*.dif_input .hospital-inputs input[type="text"] {
+            margin-bottom: 0;
+        }*/
+    
+    
+        /*=========================================*/

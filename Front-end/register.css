@@ -1,0 +1,46 @@
+body{
+
+	font-family: 'Lato', sans-serif;
+    color:black;
+}
+
+.navbar-default {
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.navbar {
+ margin-top: 0px;
+ margin-bottom: 0px;
+ font-size: 18px;
+ background-color: #DDF0F0;
+}
+
+.brand-name {
+  padding-top: 10px;
+}
+
+.brand-font {
+  font-family: 'Josefin Slab', serif;  
+  font-size: 36px;
+  font-weight: bold;
+  text-decoration: none;
+  position: fixed;
+  left:20px;
+}
+
+form
+{
+ margin-top: 30px;
+ align-content: center;
+ text-align : center;
+}
+
+
+#demo-nav {
+  display: none;
+}
+
+.show-nav #demo-nav {
+  display: block;
+}

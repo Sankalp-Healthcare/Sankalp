@@ -1,0 +1,80 @@
+body{
+
+	font-family: 'Lato', sans-serif;
+    color:black;
+}
+
+.navbar-default {
+  background-color: rgb(247, 240, 240);
+  border-color: #fff;
+}
+
+.navbar {
+ margin-top: 0px;
+ margin-bottom: 0px;
+ font-size: 18px;
+ background-image: linear-gradient(to right, rgba(57, 153, 243, 0), rgb(143, 174, 233));
+ height: 75px;
+}
+.navbar-nav{
+  padding-top: 15px;
+}
+.navbar-nav :hover{
+  
+  height: 100%;
+}
+
+section .main
+{
+  width:580px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.brand-name {
+  padding-top: auto;
+  margin: auto;
+  
+}
+
+.brand-font {
+  font-family: 'Josefin Slab', serif;  
+  font-size: 36px;
+  font-weight: bold;
+  text-decoration: none;
+  position: fixed;
+  left:20px;
+}
+
+.container-fluid{
+   align-self: baseline;
+   vertical-align: middle;
+}
+
+.row{
+    text-align:center;
+    margin:0 auto;
+}
+
+.row .col-md-4{
+   display:inline-block;
+   vertical-align: middle;
+   float: none;
+}
+
+#demo-nav {
+  display: none;
+}
+
+.show-nav #demo-nav {
+  display: block;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
